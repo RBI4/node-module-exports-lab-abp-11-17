@@ -9,4 +9,3 @@ class Icebreaker{
 }
 
 model.exports = Icebreaker
-
